@@ -1,55 +1,68 @@
-# Google-Cybersecurity
-Cybersecurity certificate project portfolio
+# Google-Cybersecurity  
+_Cybersecurity Certificate Project Portfolio_
 
-**👋 ABOUT ME**
+---
 
-Hi, I'm **Percyslage Tanaka Kavenda**, a dedicated cybersecurity enthusiast and student leader pursuing the Google Cybersecurity Certificate. I’m passionate about protecting people, systems, and data from cyber threats, especially in regions like Zimbabwe, where cybersecurity is often overlooked. I aim to bridge the cybersecurity gap by combining technical skills with bold leadership and moral clarity.
+The projects below were completed as part of the **Google Cybersecurity Certificate**, a professional program that equips learners with hands-on skills in network security, incident response, system hardening, risk assessment, and cybersecurity tools such as Linux, SQL, and Wireshark. Each project showcases practical tasks and real-world simulations, demonstrating my ability to identify threats, protect systems, and document security processes effectively.
 
-**💡 Strengths**
+---
+---
 
-- Strong **verbal and written communication**
-- Solid **time management and organization** skills
-- Deep commitment to **ethical cybersecurity practices** and **continuous learning**
+## 📁 Projects
 
-**🎯 Core Values**
+### 1. Algorithm-for-file-updates-in-Python  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Algorithm-for-file-updates-in-Python)  
+Demonstrates Python skills in file handling, content parsing, and algorithm development with real-world applications.
 
-- **Protecting people** and organizations through proactive cybersecurity
-- **Upholding truth, ethics, and justice** in digital environments
+### 2. Finalized-incident-handler-s-journal  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Finalized-incident-handler-s-journal)  
+Finalized version of my incident handler's journal, compiling documentation from multiple security incidents.
 
-**🔐 Why Cybersecurity?**
+### 3. Incident-handler-s-journal  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Incident-handler-s-journal)  
+Analysis and documentation of a security incident, following proper response protocols and journaling methods.
 
-Cybersecurity caught my attention because it’s more than just a career, it’s a mission. In today’s digital world, we’re all vulnerable but not equally protected. I’m driven to be part of the solution: identifying threats, preventing breaches, and educating others. I believe cybersecurity should be **accessible, ethical, and empowering**, especially in underserved regions like mine.
+### 4. Analyzing-a-vulnerable-system-for-a-small-business  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Analyzing-a-vulnerable-system-for-a-small-business)  
+Vulnerability assessment for a small business—identifying weaknesses in systems and network infrastructure.
 
-**👥 Audience**
+### 5. Determining-appropriate-data-handling-practices  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Determining-appropriate-data-handling-practices)  
+Evaluation of a data risk assessment report to assess the effectiveness of data privacy protection methods.
 
-This portfolio is intended for:
+### 6. Classifying-the-assets-connected-to-a-home-network  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Classifying-the-assets-connected-to-a-home-network)  
+Classification and risk assessment of devices connected to a home office network.
 
-- **Cybersecurity recruiters and hiring managers**
-- **Government cybersecurity departments**
-- **Organizations in need of security-conscious interns or junior analysts**
+### 7. Apply-filters-to-SQL-queries  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Apply-filters-to-SQL-queries)  
+Portfolio project showcasing SQL skills including database queries, schema design, and data manipulation.
 
-**📌 How I Can Contribute**
+### 8. Using-Linux-commands-to-manage-file-permissions  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Using-Linux-commands-to-manage-file-permissions)  
+Hands-on Linux experience managing file permissions using command-line tools.
 
-I bring a unique blend of **leadership, resilience, and technical curiosity**. My goal is to support security teams by:
+### 9. Incident-report-analysis  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Incident-report-analysis)  
+Case study analysis of a social media data breach, proposing solutions and prevention strategies.
 
-- Running basic security audits and assessments
-- Managing file permissions and handling logs in Linux
-- Identifying and mitigating vulnerabilities
-- Communicating complex findings clearly and professionally
+### 10. Security-risk-assessment  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Security-risk-assessment)  
+Assessment of vulnerabilities in a breached organization with recommendations for hardening network defenses.
 
-**📁 Portfolio Contents**
+### 11. Security-incident-report  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Security-incident-report)  
+Incident response for a web-based security issue, with analysis, findings, and mitigation recommendations.
 
-- 🔍 security-audit-report/: Sample audit for a small business
-- 🛠️ linux-permissions/: Practice files, commands, and permission settings
-- 📊 network-analysis/: Network diagrams and vulnerability reports
-- 🧠 incident-journal.md: Simulated cybersecurity incident log
-- 🐍 file-parsing-script.py: Python script for parsing log files
-- 🔐 sql-query-practice/: SQL filters and query documentation
-- 🧾 resume.pdf: My cybersecurity-focused resume
-- ✍️ professional-statement.md: This statement!
+### 12. Cybersecurity-incident-report  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Cybersecurity-incident-report)  
+Investigation of a web service disruption, identifying causes, attack vectors, and impacts.
 
-**📌 Note**
+### 13. Network-Traffic-Analysis  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Network-Traffic-Analysis)  
+Traffic analysis using Wireshark to identify DNS and ICMP protocols in a cybersecurity incident.
 
-This is a living portfolio that will evolve as I gain more experience and complete additional projects in the certificate program. All content here is for demonstration purposes only, no private or sensitive information is included.
+### 14. Security-audit  
+[🔗 GitHub Repository](https://github.com/Blackleaf-til/Security-audit)  
+Internal audit of a fictional company’s security measures to evaluate and document potential gaps.
 
-**The mask is off. The mission is on.**
